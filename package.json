@@ -16,7 +16,7 @@
   ],
   "engines": {
     "node": ">=4.4.5",
-    "homebridge": ">=0.4.16"
+    "homebridge": ">=0.4.22"
   },
   "dependencies": {
     "request": "^2.65.0",
